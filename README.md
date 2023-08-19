@@ -1,5 +1,5 @@
 ##  An adaptive two-paged website with a slider and a pagination
-#### **[Show project](https://sandrainporto.github.io/Pet-Shelter/pages/main/index.html)**
+#### **[Show project](https://sandrainporto.github.io/css-diner/)**
 
 *********************************
 ![Alt text](css-selectors-1.png)
