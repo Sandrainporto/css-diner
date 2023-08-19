@@ -1,0 +1,14 @@
+.css-block {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    margin: 25px 0;
+    padding: 5px 0 20px;
+    background: #bebaba4f;
+    border-radius: 20px;
+}
+.title_editor {
+    padding: 10px 15px 5px;
+    font-weight: 600;
+    color: rgb(237, 241, 241);
+}

@@ -1,0 +1,28 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 60px;
+    font-size: 1.2rem;
+}
+
+.header__title {
+    text-align: center;
+    color: rgb(237, 241, 241);
+    font-weight: 900;
+    font-size: 1.3rem;
+}
+
+.header__help {
+    font-size: 1rem;
+    min-width: 150px;
+    height: 40px;
+    border-radius: 30px;
+    background: #cecbcba1;
+}
+.header__help:hover {
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px;
+    color: rgb(237, 241, 241);
+}
